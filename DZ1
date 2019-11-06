@@ -1,0 +1,10 @@
+package com.cherednik;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Привет, моё имя Олег");
+
+        System.out.println("А фамилия Чередник");
+    }
+}
